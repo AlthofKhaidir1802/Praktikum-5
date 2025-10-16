@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "title": "Memahami CRUD di Web Development (Update)",
+      "body": "CRUD adalah dasar aplikasi. Sekarang datanya diupdate penuh dengan PUT.",
+      "author": "Admin",
+      "likes": 999,
+      "tags": [
+        "react",
+        "hooks",
+        "update"
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Citra",
+          "message": "Penjelasan CRUD-nya gampang dimengerti.",
+          "date": "2025-09-23T12:00:00Z"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "title": "title rubah",
+      "body": "body rubah",
+      "author": "author rubah",
+      "id": "5a29"
+    },
+    {
+      "id": "a31f",
+      "title": "3",
+      "body": "2",
+      "author": "1"
+    },
+    {
+      "id": "fd69",
+      "title": "asdasda",
+      "body": "asdsdfsdsadfghfdsdfsgh",
+      "author": "saddsafss",
+      "tags": [
+        "asdsdfsgsf"
+      ]
+    }
+  ]
+}
